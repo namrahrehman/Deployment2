@@ -1,14 +1,7 @@
 Flask==1.1.2
-Flask_Admin==1.5.8
 Flask_Bootstrap==3.3.7.1
-Flask_Login==0.5.0
-Flask_SQLAlchemy==2.5.1
-Flask_WTF==1.0.0
 matplotlib==3.4.3
 numpy==1.19.5
-opencv_python==4.5.1.48
-SQLAlchemy==1.4.22
 tensorflow==2.7.0
 Werkzeug==2.0.2
-WTForms==3.0.1
 gunicorn
